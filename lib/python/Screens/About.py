@@ -36,7 +36,7 @@ class About(Screen):
 		AboutText += _("CPU: ") + cpu + "\n"
 		AboutText += _("Image: ") + about.getImageTypeString() + "\n"
 		AboutText += _("Build Version: python3")  + "\n"
-		AboutText += _("Build date: www.cobraliberosat.net")  + "\n"
+		AboutText += _("Build date: www.cobraliberosat.ne")  + "\n"
 		AboutText += _("Last update: ") + about.getUpdateDateString() + "\n"
 
 		# [WanWizard] Removed until we find a reliable way to determine the installation date
